@@ -1,0 +1,28 @@
+{
+  "name": "nodefarm",
+  "version": "1.0.0",
+  "description": "dynamic allocation of number of products and its values on ui",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20IT121/Node_Farm.git"
+  },
+  "keywords": [
+    "Node",
+    "npm",
+    "DynamicUI"
+  ],
+  "author": "Nesh Rochwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20IT121/Node_Farm/issues"
+  },
+  "homepage": "https://github.com/20IT121/Node_Farm#readme",
+  "dependencies": {
+    "nodemon": "^3.0.3",
+    "slugify": "^1.6.6"
+  }
+}
